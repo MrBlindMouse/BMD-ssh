@@ -1,0 +1,6 @@
+Welcome to the blog corner of MrBlindMouse's SSH portfolio.
+
+Posts live here as plain-text assets. Add files named post-<id> under
+assets/ and they show up on the blog list.
+
+Type back on a post, or menu from the list, to return home.
